@@ -1,7 +1,7 @@
-# dl_ts_tutorial
+# Tutorials in 'Deep Learning for Time Series Forecasting' 
 Tutorials in [Deep Learning for Time Series Forecasting](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/) written by Jason Brownlee
 
-<img src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Cover-400.png'>
+<img src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Cover-400.png' />
 
 
 
